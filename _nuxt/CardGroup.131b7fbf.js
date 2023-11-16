@@ -1,0 +1,1 @@
+import{d as c,X as p,Y as l,b as d,c as i,a0 as u,O as f,J as s}from"./entry.170f331b.js";const _=c({inheritAttrs:!1,__name:"CardGroup",props:{class:{}},setup(e){const r={wrapper:"grid sm:grid-cols-2 gap-4"},a=e,{ui:o,attrs:t}=p("content.cardGroup",void 0,r,l(a,"class"));return(n,m)=>(d(),i("div",f({class:s(o).wrapper},s(t)),[u(n.$slots,"default")],16))}});export{_ as default};
